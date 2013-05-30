@@ -1,0 +1,4 @@
+pyDicomViewer
+=============
+
+Python based DicomViewer 
